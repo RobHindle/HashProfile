@@ -1,0 +1,2 @@
+C:\users\owner\Documents\WinPwrShlPractice\SECEvents\CertMailP.csv
+C:\users\owner\Documents\WinPwrShlPractice\OPSTestURLS\MonitorMailP.csv
